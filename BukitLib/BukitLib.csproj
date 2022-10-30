@@ -11,9 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Attribute\" />
-    <Folder Include="Discord\" />
     <Folder Include="Database\" />
+    <Folder Include="Discord\" />
     <Folder Include="Http\" />
   </ItemGroup>
 
